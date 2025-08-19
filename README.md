@@ -2,8 +2,6 @@
 
 **Fractal visualization program in C (Mandelbrot & Julia) with interactive zooming and adjustable visual parameters.**
 
-![banner](https://raw.githubusercontent.com/placeholder/placeholder/main/assets/fractol-banner.png)
-
 ---
 
 ## 🌌 Resumen
