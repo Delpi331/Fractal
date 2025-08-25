@@ -133,3 +133,4 @@ Reglas estándar de 42:D
 <img width="812" height="630" alt="image" src="https://github.com/user-attachments/assets/52f61d6e-5aa7-4ffc-a872-d3c27f2f7db3" />
 
 (Julia)
+<img width="810" height="631" alt="image" src="https://github.com/user-attachments/assets/35aaf920-6c7f-46d1-8606-a8572586049d" />
